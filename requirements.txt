@@ -1,0 +1,7 @@
+streamlit==1.38.0
+requests>=2.31.0
+polyline>=2.0.0
+folium>=0.17.0
+streamlit-folium>=0.22.0
+openai>=1.40.0
+pandas>=2.2.2
